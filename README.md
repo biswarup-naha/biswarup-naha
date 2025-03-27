@@ -22,5 +22,5 @@
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/6hyCmqlpgEhkMKKr65sFgI)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswarup-naha&show_icons=true&locale=en" alt="biswarup-naha" /></p>
+<center><img align="center" src="https://github-readme-stats.vercel.app/api?username=biswarup-naha&show_icons=true&locale=en" alt="biswarup-naha" /></p>
 
